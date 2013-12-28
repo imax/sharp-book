@@ -27,7 +27,7 @@
             <text>%u041E%u0431%20%u0430%u0432%u0442%u043E%u0440%u0435%3A</text>
           </controlProperties>
         </control>
-        <control controlID="1" controlTypeID="com.balsamiq.mockups::Paragraph" x="0" y="36" w="830" h="288" measuredW="200" measuredH="80" zOrder="1" locked="false" isInGroup="34">
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Paragraph" x="0" y="34" w="830" h="250" measuredW="200" measuredH="80" zOrder="1" locked="false" isInGroup="34">
           <controlProperties>
             <size>18</size>
             <text>%u0414%u0436%u0438%u043D%20%u0428%u0430%u0440%u043F%20-%20%u0430%u043C%u0435%u0440%u0438%u043A%u0430%u043D%u0441%u043A%u0438%u0439%20%u043E%u0431%u0449%u0435%u0441%u0442%u0432%u0435%u043D%u043D%u044B%u0439%20%u0434%u0435%u044F%u0442%u0435%u043B%u044C%2C%20%u0438%u0437%u0432%u0435%u0441%u0442%u043D%u044B%u0439%20%u0432%u043E%20%u0432%u0441%u0435%u043C%20%u043C%u0438%u0440%u0435%20%u0441%u0432%u043E%u0438%u043C%u0438%20%u043A%u043D%u0438%u0433%u0430%u043C%u0438%20%u043F%u043E%20%u043C%u0435%u0442%u043E%u0434%u0430%u043C%20%u043D%u0435%u043D%u0430%u0441%u0438%u043B%u044C%u0441%u0442%u0432%u0435%u043D%u043D%u043E%u0439%20%u0431%u043E%u0440%u044C%u0431%u044B%20%u0441%20%u0430%u0432%u0442%u043E%u0440%u0438%u0442%u0430%u0440%u043D%u044B%u043C%u0438%20%u0440%u0435%u0436%u0438%u043C%u0430%u043C%u0438.%20%u0423%u0447%u0438%u043B%u0441%u044F%20%u0438%20%u043F%u043E%u043B%u0443%u0447%u0438%u043B%20%u0441%u0442%u0435%u043F%u0435%u043D%u044C%20%u0431%u0430%u043A%u0430%u043B%u0430%u0432%u0440%u0430%20%u0438%20%u043C%u0430%u0433%u0438%u0441%u0442%u0440%u0430%20%u0432%20%u0443%u043D%u0438%u0432%u0435%u0440%u0441%u0438%u0442%u0435%u0442%u0435%20%u0448%u0442%u0430%u0442%u0430%20%u041E%u0433%u0430%u0439%u043E.%20%u041F%u0440%u043E%u0432%u0451%u043B%209%20%u043C%u0435%u0441%u044F%u0446%u0435%u0432%20%u0432%20%u0437%u0430%u043A%u043B%u044E%u0447%u0435%u043D%u0438%u0438%20%u0437%u0430%20%u0433%u0440%u0430%u0436%u0434%u0430%u043D%u0441%u043A%u043E%u0435%20%u043D%u0435%u043F%u043E%u0432%u0438%u043D%u043E%u0432%u0435%u043D%u0438%u0435%20%u0430%u0440%u043C%u0435%u0439%u0441%u043A%u043E%u043C%u0443%20%u043F%u0440%u0438%u0437%u044B%u0432%u0443%20%u0432%u043E%20%u0432%u0440%u0435%u043C%u044F%20%u041A%u043E%u0440%u0435%u0439%u0441%u043A%u043E%u0439%20%u0432%u043E%u0439%u043D%u044B.%20%u0412%20%u044D%u0442%u043E%u0442%20%u043F%u0435%u0440%u0438%u043E%u0434%20%u0431%u044B%u043B%20%u0442%u0440%u043E%u0446%u043A%u0438%u0441%u0442%u043E%u043C%20%u043F%u043E%20%u0441%u0432%u043E%u0438%u043C%20%u0432%u0437%u0433%u043B%u044F%u0434%u0430%u043C.%20%u041F%u043E%u0441%u043B%u0435%20%u043E%u0441%u0432%u043E%u0431%u043E%u0436%u0434%u0435%u043D%u0438%u044F%20%u0434%u0435%u0432%u044F%u0442%u044C%20%u043B%u0435%u0442%20%u0436%u0438%u043B%20%u0432%20%u041D%u043E%u0440%u0432%u0435%u0433%u0438%u0438%20%u0438%20%u0410%u043D%u0433%u043B%u0438%u0438.%0A%20%0A%u0417%u0430%u0449%u0438%u0442%u0438%u043B%20%u043A%u0430%u043D%u0434%u0438%u0434%u0430%u0442%u0441%u043A%u0443%u044E%20%u0434%u0438%u0441%u0441%u0435%u0440%u0442%u0430%u0446%u0438%u044E%20%u0432%201964%20%u0433%u043E%u0434%u0443%20%u043F%u043E%20%u0442%u0435%u043C%u0435%20%AB%u041D%u0435%u043D%u0430%u0441%u0438%u043B%u044C%u0441%u0442%u0432%u0435%u043D%u043D%u044B%u0435%20%u043C%u0435%u0442%u043E%u0434%u044B%20%u0441%u0432%u0435%u0440%u0436%u0435%u043D%u0438%u044F%20%u0440%u0435%u0436%u0438%u043C%u043E%u0432%BB%20%u043D%u0430%20%u0441%u0442%u0435%u043F%u0435%u043D%u044C%20%u0434%u043E%u043A%u0442%u043E%u0440%u0430%20%u0444%u0438%u043B%u043E%u0441%u043E%u0444%u0438%u0438%20%28PhD%29%20%u0432%20%u041E%u043A%u0441%u0444%u043E%u0440%u0434%u0441%u043A%u043E%u043C%20%u0443%u043D%u0438%u0432%u0435%u0440%u0441%u0438%u0442%u0435%u0442%u0435.%20%u0411%u043E%u043B%u0435%u0435%2030%20%u043B%u0435%u0442%20%u0432%u0451%u043B%20%u0438%u0441%u0441%u043B%u0435%u0434%u043E%u0432%u0430%u0442%u0435%u043B%u044C%u0441%u043A%u0443%u044E%20%u0440%u0430%u0431%u043E%u0442%u0443%20%u0432%20%u043E%u0431%u043B%u0430%u0441%u0442%u0438%20%u043C%u0435%u0436%u0434%u0443%u043D%u0430%u0440%u043E%u0434%u043D%u044B%u0445%20%u043E%u0442%u043D%u043E%u0448%u0435%u043D%u0438%u0439%20%u0432%20%u0413%u0430%u0440%u0432%u0430%u0440%u0434%u0441%u043A%u043E%u043C%20%u0443%u043D%u0438%u0432%u0435%u0440%u0441%u0438%u0442%u0435%u0442%u0435.%20%u0412%201983%20%u0433%u043E%u0434%u0443%20%u043E%u043D%20%u043E%u0441%u043D%u043E%u0432%u0430%u043B%20%u0418%u043D%u0441%u0442%u0438%u0442%u0443%u0442%20%u0410%u043B%u044C%u0431%u0435%u0440%u0442%u0430%20%u042D%u0439%u043D%u0448%u0442%u0435%u0439%u043D%u0430%20%u2014%20%u043D%u0435%u043A%u043E%u043C%u043C%u0435%u0440%u0447%u0435%u0441%u043A%u0443%u044E%20%u043E%u0440%u0433%u0430%u043D%u0438%u0437%u0430%u0446%u0438%u044E%2C%20%u0437%u0430%u043D%u0438%u043C%u0430%u044E%u0449%u0443%u044E%u0441%u044F%20%u043C%u0435%u0442%u043E%u0434%u0430%u043C%u0438%20%u0438%u0441%u043F%u043E%u043B%u044C%u0437%u043E%u0432%u0430%u043D%u0438%u044F%20%u043D%u0435%u043D%u0430%u0441%u0438%u043B%u044C%u0441%u0442%u0432%u0435%u043D%u043D%u044B%u0445%20%u0434%u0435%u0439%u0441%u0442%u0432%u0438%u0439%20%u0432%20%u043A%u043E%u043D%u0444%u043B%u0438%u043A%u0442%u0430%u0445%20%u043F%u043E%20%u0432%u0441%u0435%u043C%u0443%20%u043C%u0438%u0440%u0443.</text>
@@ -119,7 +119,7 @@
             <control controlID="1" controlTypeID="com.balsamiq.mockups::Paragraph" x="0" y="72" w="349" h="57" measuredW="200" measuredH="80" zOrder="1" locked="false" isInGroup="1">
               <controlProperties>
                 <size>20</size>
-                <text>%u041C%u043E%u0436%u043D%u043E%20%u043B%u0438%20%u0432%u0435%u0441%u0442%u0438%20%u043F%u0435%u0440%u0435%u0433%u043E%u0432%u043E%u0440%u044B%0A%u0441%20%u0434%u0438%u043A%u0442%u0430%u0442%u043E%u0440%u043E%u043C%3F</text>
+                <text>%u041C%u043E%u0436%u043D%u043E%20%u043B%u0438%20%u0432%u0435%u0441%u0442%u0438%20%u043F%u0435%u0440%u0435%u0433%u043E%u0432%u043E%u0440%u044B%20%u0441%20%u0434%u0438%u043A%u0442%u0430%u0442%u043E%u0440%u043E%u043C%3F</text>
               </controlProperties>
             </control>
           </groupChildrenDescriptors>
@@ -144,58 +144,61 @@
     </control>
     <control controlID="51" controlTypeID="com.balsamiq.mockups::HRule" x="101" y="833" w="845" h="-1" measuredW="100" measuredH="10" zOrder="10" locked="false" isInGroup="-1"/>
     <control controlID="52" controlTypeID="com.balsamiq.mockups::HRule" x="100" y="616" w="845" h="-1" measuredW="100" measuredH="10" zOrder="11" locked="false" isInGroup="-1"/>
-    <control controlID="63" controlTypeID="com.balsamiq.mockups::HRule" x="105" y="174" w="1104" h="-1" measuredW="100" measuredH="10" zOrder="13" locked="false" isInGroup="-1"/>
-    <control controlID="64" controlTypeID="__group__" x="985" y="270" w="224" h="218" measuredW="224" measuredH="218" zOrder="12" locked="false" isInGroup="-1">
-      <groupChildrenDescriptors>
-        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="224" h="218" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="64"/>
-        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="13" y="10" w="-1" h="-1" measuredW="118" measuredH="26" zOrder="1" locked="false" isInGroup="64">
-          <controlProperties>
-            <size>18</size>
-            <text>%u0421%u043A%u0430%u0447%u0430%u0442%u044C%20%u041A%u043D%u0438%u0433%u0443</text>
-          </controlProperties>
-        </control>
-        <control controlID="2" controlTypeID="com.balsamiq.mockups::Link" x="13" y="44" w="-1" h="-1" measuredW="162" measuredH="22" zOrder="2" locked="false" isInGroup="64">
-          <controlProperties>
-            <size>16</size>
-            <text>Acrobat%20Reader%20%28PDF%29</text>
-          </controlProperties>
-        </control>
-        <control controlID="3" controlTypeID="com.balsamiq.mockups::Link" x="13" y="71" w="-1" h="-1" measuredW="156" measuredH="22" zOrder="3" locked="false" isInGroup="64">
-          <controlProperties>
-            <size>16</size>
-            <text>%u041F%u0440%u043E%u0441%u0442%u043E%u0439%20%u0422%u0435%u043A%u0441%u0442%20%28TXT%29</text>
-          </controlProperties>
-        </control>
-        <control controlID="4" controlTypeID="com.balsamiq.mockups::Link" x="13" y="98" w="-1" h="-1" measuredW="151" measuredH="22" zOrder="4" locked="false" isInGroup="64">
-          <controlProperties>
-            <size>16</size>
-            <text>Apple%20iBooks%20%28EPUB%29</text>
-          </controlProperties>
-        </control>
-        <control controlID="5" controlTypeID="com.balsamiq.mockups::Link" x="13" y="125" w="-1" h="-1" measuredW="165" measuredH="22" zOrder="5" locked="false" isInGroup="64">
-          <controlProperties>
-            <size>16</size>
-            <text>Amazon%20Kindle%20%28MOBI%29</text>
-          </controlProperties>
-        </control>
-        <control controlID="6" controlTypeID="com.balsamiq.mockups::Link" x="13" y="152" w="-1" h="-1" measuredW="117" measuredH="22" zOrder="6" locked="false" isInGroup="64">
-          <controlProperties>
-            <size>16</size>
-            <text>MS%20Word%20%28DOC%29</text>
-          </controlProperties>
-        </control>
-        <control controlID="7" controlTypeID="com.balsamiq.mockups::Link" x="13" y="179" w="-1" h="-1" measuredW="123" measuredH="22" zOrder="7" locked="false" isInGroup="64">
-          <controlProperties>
-            <size>16</size>
-            <text>FB%20Reader%20%28FB2%29</text>
-          </controlProperties>
-        </control>
-      </groupChildrenDescriptors>
-    </control>
-    <control controlID="65" controlTypeID="com.balsamiq.mockups::ButtonBar" x="985" y="223" w="-1" h="-1" measuredW="213" measuredH="27" zOrder="14" locked="false" isInGroup="-1">
+    <control controlID="63" controlTypeID="com.balsamiq.mockups::HRule" x="105" y="174" w="1104" h="-1" measuredW="100" measuredH="10" zOrder="20" locked="false" isInGroup="-1"/>
+    <control controlID="65" controlTypeID="com.balsamiq.mockups::ButtonBar" x="985" y="223" w="-1" h="-1" measuredW="213" measuredH="27" zOrder="21" locked="false" isInGroup="-1">
       <controlProperties>
         <selectedIndex>-1</selectedIndex>
         <text>Share%2C%20Tweet%2C%20%u041F%u043E%u0434%u0435%u043B%u0438%u0442%u044C%u0441%u044F</text>
+      </controlProperties>
+    </control>
+    <control controlID="66" controlTypeID="com.balsamiq.mockups::Canvas" x="985" y="270" w="224" h="292" measuredW="100" measuredH="70" zOrder="12" locked="false" isInGroup="-1"/>
+    <control controlID="67" controlTypeID="com.balsamiq.mockups::Label" x="998" y="281" w="132" h="-1" measuredW="121" measuredH="26" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>%u0421%u043A%u0430%u0447%u0430%u0442%u044C%20%u041A%u043D%u0438%u0433%u0443%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="68" controlTypeID="com.balsamiq.mockups::Link" x="998" y="317" w="-1" h="-1" measuredW="162" measuredH="22" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>Acrobat%20Reader%20%28PDF%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="69" controlTypeID="com.balsamiq.mockups::Link" x="998" y="347" w="-1" h="-1" measuredW="156" measuredH="22" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>%u041F%u0440%u043E%u0441%u0442%u043E%u0439%20%u0422%u0435%u043A%u0441%u0442%20%28TXT%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="70" controlTypeID="com.balsamiq.mockups::Link" x="998" y="376" w="-1" h="-1" measuredW="151" measuredH="22" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>Apple%20iBooks%20%28EPUB%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="71" controlTypeID="com.balsamiq.mockups::Link" x="998" y="405" w="-1" h="-1" measuredW="165" measuredH="22" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>Amazon%20Kindle%20%28MOBI%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="72" controlTypeID="com.balsamiq.mockups::Link" x="998" y="434" w="-1" h="-1" measuredW="117" measuredH="22" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>MS%20Word%20%28DOC%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="73" controlTypeID="com.balsamiq.mockups::Link" x="998" y="463" w="-1" h="-1" measuredW="123" measuredH="22" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>FB%20Reader%20%28FB2%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="74" controlTypeID="com.balsamiq.mockups::Link" x="998" y="526" w="-1" h="-1" measuredW="179" measuredH="22" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>16</size>
+        <text>%u041F%u043E%u043C%u043E%u0433%u0438%20%u043D%u0430%u043F%u0435%u0447%u0430%u0442%u0430%u0442%u044C%20%u043A%u043D%u0438%u0433%u0443</text>
       </controlProperties>
     </control>
   </controls>
