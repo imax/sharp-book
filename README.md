@@ -14,8 +14,7 @@ sharp-book
 
 "C 1966 по 1999 год ненасильственное гражданское сопротивление сыграло решающую роль в 50 из 67 случаях перехода от авторитаризма к демократии." - Wikipedia
 
-PDF: http://www.aeinstein.org/wp-content/uploads/2013/10/FDTD_Russian.pdf
-
+PDF: http://www.aeinstein.org/wp-content/uploads/2013/10/FDTD_Russian.pdf  
 Online: http://www.scribd.com/doc/194249640/От-Диктатуры-к-Демократии
 
 ### Еще вы узнаете:
