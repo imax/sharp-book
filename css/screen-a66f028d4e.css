@@ -1,0 +1,148 @@
+/* Space out content a bit */
+body {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+/* Everything but the jumbotron gets side spacing for mobile first views */
+.header,
+.marketing,
+.footer {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+/* Custom page header */
+.header {
+  border-bottom: 1px solid #e5e5e5;
+}
+/* Make the masthead heading the same height as the navigation */
+.header h3 {
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: 40px;
+  padding-bottom: 19px;
+}
+
+/* Custom page footer */
+.footer {
+  padding-top: 19px;
+  color: #777;
+  border-top: 1px solid #e5e5e5;
+}
+
+/* Customize container */
+@media (min-width: 768px) {
+  .container {
+    /*max-width: 730px;*/
+  }
+}
+.container-narrow > hr {
+  margin: 30px 0;
+}
+
+/* Main marketing message and sign up button */
+.jumbotron {
+  text-align: center;
+  border-bottom: 1px solid #e5e5e5;
+}
+.jumbotron .btn {
+  font-size: 21px;
+  padding: 14px 24px;
+}
+
+/* Supporting marketing content */
+.marketing {
+  margin: 40px 0;
+}
+.marketing p + h4 {
+  margin-top: 28px;
+}
+
+/* Responsive: Portrait tablets and up */
+@media screen and (min-width: 768px) {
+  /* Remove the padding we set earlier */
+  .header,
+  .marketing,
+  .footer {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  
+  .toprow  {
+    margin-top: 60px;
+  }
+  
+  .topoffset  {
+    margin-top: 20px;
+  }
+  /* Space out the masthead */
+  .header {
+    margin-bottom: 30px;
+  }
+  /* Remove the bottom border on the jumbotron for visual effect */
+  .jumbotron {
+    border-bottom: 0;
+  }
+}
+
+.jumbotron ul {
+  text-align: left;
+}
+.jumbotron p.small {
+  text-align: right;
+  font-size: 14pt;
+}
+
+.top-hr {
+  border-top: 1px solid lightgray;
+}
+
+.quote {
+  font-style: italic;
+  color: gray;
+}  
+
+h1.big {
+  font-size: 40pt;
+  font-weight: bold;
+  margin-top: 0;
+}
+
+h4.big {
+  font-size: 20pt;
+  font-weight: bold;
+  margin-top: 20px;
+  padding-bottom:20px;
+}
+
+
+.panel-title {
+  font-size: 14pt !important;
+  font-weight: bold;
+}
+
+p.big {
+  font-size: 16pt;
+}
+
+p.gray {
+  color: gray;
+}
+
+h5 {
+  font-size: 18pt !important;
+  font-weight: bold !important;
+  padding-top: 10px;
+  padding-bottom:20px;
+}
+
+span.small {
+  font-size: 10pt;
+}
+
+a.primaryaction {
+  font-size: 18pt;
+  padding: 15px 50px;
+}
+
